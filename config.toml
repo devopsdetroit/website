@@ -8,7 +8,7 @@ theme = "alageek"
 [params]
 copyright = "© 2019 by DevOps Detroit"
 copyrightUrl = "https://devopsdetroit.org"
-logofile = "/logo.png"
+logofile = "/img/logo.png"
 highlightjs = true
 
 [[menu.primary]]
