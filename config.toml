@@ -1,0 +1,30 @@
+baseURL = "https://devopsdetroit.github.io/"
+languageCode = "en-us"
+title = "DevOps Detroit"
+canonifyurls = true
+paginate = 3
+theme = "alageek"
+
+[params]
+copyright = "© 2019 by DevOps Detroit"
+copyrightUrl = "https://devopsdetroit.org"
+logofile = "/logo.png"
+highlightjs = true
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+
+[[menu.primary]]
+identifier = "sponsor"
+name = "Community Sponsorship"
+url = "https://docs.google.com/forms/d/14-80yzc0co-Rvy7woLAoffIX5lue7vnDJeIRzHUQsXA/edit#response=ACYDBNgW9nuL6CdU1yq_5luT2IB6LEKplVayoPnveVemn_N9NxvGiD3Sm0KIIgo"
+weight = 20
+
+[[menu.secondary]]
+identifier = "dodd19"
+name = "devopsdays 2019"
+url = "https://www.devopsdays.org/events/2019-detroit"
+weight = 120
