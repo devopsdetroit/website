@@ -9,6 +9,7 @@ theme = "alageek"
 copyright = "© 2019 by DevOps Detroit"
 copyrightUrl = "https://devopsdetroit.org"
 logofile = "/img/logo.png"
+faviconfile = "/img/favicon.ico"
 highlightjs = true
 
 [[menu.primary]]
